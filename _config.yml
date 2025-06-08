@@ -5,8 +5,8 @@ keywords: null
 author: John Doe
 language: en
 timezone: ''
-url: https://kenyon01.github.io/workflow-hexo-blog/
-root: /workflow-hexo-blog/
+url: https://kenyon01.github.io/workflow_hexo_blog/
+root: /workflow_hexo_blog/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
