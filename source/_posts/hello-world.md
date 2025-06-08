@@ -36,3 +36,9 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+
+### Deploy reference
+[B站视频](https://www.bilibili.com/video/BV1xTgTemEDU/?vd_source=098fcffe8b5adce37c907deab62779bc)
+
+[文档](https://xiamu-ssr.github.io/Hexo/2024/06/19/2024-H1/2024-06-19-12-31-52/)
