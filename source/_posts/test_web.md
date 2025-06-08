@@ -2,4 +2,4 @@
  test write article on github web
 
 
- {% asset_img example.jpg This is an example image %}
+ {% asset_img test.jpg This is an example image %}
