@@ -8,4 +8,4 @@ tags:
  test write article on github web
 
 
- {% asset_img test.jpg This is an example image %}
+ {% asset_img test.png This is an example image %}
