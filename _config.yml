@@ -1,5 +1,5 @@
 title: Hexo-Ayan
-subtitle: 'A window'
+subtitle: A window
 description: ''
 keywords: null
 author: Kenyon
@@ -59,7 +59,7 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: icarus
+theme: icarus-night
 deploy:
   type: git
   repo: https://github.com/kenyon01/workflow_hexo_blog.git
