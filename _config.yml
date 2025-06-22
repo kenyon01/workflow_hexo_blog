@@ -5,7 +5,7 @@ keywords: null
 author: Kenyon
 language: zh-CN
 timezone: ''
-# url: https://kenyon01.github.io/workflow_hexo_blog/
+url: url: https://kenyon01.github.io
 root: /workflow_hexo_blog/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
