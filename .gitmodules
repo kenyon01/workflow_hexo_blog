@@ -1,3 +1,12 @@
 [submodule "themes/3-hexo"]
 	path = themes/3-hexo
 	url = https://github.com/yelog/hexo-theme-3-hexo.git
+[submodule "themes/vexo"]
+	path = themes/vexo
+	url = https://github.com/yanm1ng/hexo-theme-vexo.git
+[submodule "themes/themes/book"]
+	path = themes/themes/book
+	url = https://github.com/kaiiiz/hexo-theme-book.git
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/kaiiiz/hexo-theme-book.git
